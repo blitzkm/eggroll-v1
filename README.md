@@ -106,6 +106,14 @@ The following features have been added and should be credited for bonus points:
 3. Save/Load Game State: Players can save their progress and resume later.
 4. Leaderboard Functionality: Tracks high scores and displays them in an interactive menu.
 
+Running the Game
+To run the unit tests, execute the following command in your terminal:
+
+bash
+Copy code
+python3.12 Eggroll_MP_Extension.py
+
+
 Acknowledgements
 This game was developed as part of an academic project. Special thanks to my instructors and peers for their guidance and feedback.
 
