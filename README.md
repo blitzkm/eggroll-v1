@@ -119,6 +119,9 @@ This project was created as a submission for a Machine Problem in CS 11: Introdu
 #### LICENSE
 Egg Roll is a project for educational purposes. Feel free to modify and share with proper attribution.
 
+### JOURNAL
+Please see Change_log.md for my daily progress in creating this project.
+
 #### Running the Game
 To run the game, execute the following command in your terminal:
 
